@@ -1,4 +1,3 @@
-
 turma = []
 aluno = []
 ordem = []
